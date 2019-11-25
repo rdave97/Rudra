@@ -1,0 +1,16 @@
+.Main{
+    float: right;
+    ;
+  padding: 50px;
+  width: 70%;
+ 
+  background-color: #de4786;
+  height: 300px;
+  content: "";
+  display: table;
+  font-size: 10px;
+  border-radius: 30px;
+
+  
+  clear: both;
+}

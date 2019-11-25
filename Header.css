@@ -1,0 +1,14 @@
+.Header{
+   
+    text-align: center;
+          background-color: #1f1e1c;
+           width: 100%;
+            color: white;
+            font-size: 20px;
+            border-bottom-left-radius: round;
+
+}
+.color:hover
+{
+        background:#53a7ea;
+}

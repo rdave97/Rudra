@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  background-image: url("https://ak6.picdn.net/shutterstock/videos/10751186/thumb/1.jpg");
+
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #2962d3;
+  background-image: url("https://ak6.picdn.net/shutterstock/videos/10751186/thumb/1.jpg");
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: #b32473;
+}
+.row{
+  display: flex;
+}
+.App-link {
+  color: #09d3ac;
+}
